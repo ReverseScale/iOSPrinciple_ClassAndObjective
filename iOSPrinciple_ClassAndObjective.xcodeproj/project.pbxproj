@@ -15,6 +15,7 @@
 		3495155520A3DCF400E9AE2C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3495155420A3DCF400E9AE2C /* main.m */; };
 		3495155F20A3DCF500E9AE2C /* iOSPrinciple_ClassAndObjectiveTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3495155E20A3DCF500E9AE2C /* iOSPrinciple_ClassAndObjectiveTests.m */; };
 		3495156A20A3DCF500E9AE2C /* iOSPrinciple_ClassAndObjectiveUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3495156920A3DCF500E9AE2C /* iOSPrinciple_ClassAndObjectiveUITests.m */; };
+		3495157920A3ED3100E9AE2C /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 3495157820A3ED3100E9AE2C /* Student.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		3495156520A3DCF500E9AE2C /* iOSPrinciple_ClassAndObjectiveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSPrinciple_ClassAndObjectiveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3495156920A3DCF500E9AE2C /* iOSPrinciple_ClassAndObjectiveUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSPrinciple_ClassAndObjectiveUITests.m; sourceTree = "<group>"; };
 		3495156B20A3DCF500E9AE2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3495157720A3ED3100E9AE2C /* Student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
+		3495157820A3ED3100E9AE2C /* Student.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				3495154620A3DCEC00E9AE2C /* AppDelegate.m */,
 				3495154820A3DCEC00E9AE2C /* ViewController.h */,
 				3495154920A3DCEC00E9AE2C /* ViewController.m */,
+				3495157720A3ED3100E9AE2C /* Student.h */,
+				3495157820A3ED3100E9AE2C /* Student.m */,
 				3495154B20A3DCEC00E9AE2C /* Main.storyboard */,
 				3495154E20A3DCF400E9AE2C /* Assets.xcassets */,
 				3495155020A3DCF400E9AE2C /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				3495154A20A3DCEC00E9AE2C /* ViewController.m in Sources */,
 				3495155520A3DCF400E9AE2C /* main.m in Sources */,
 				3495154720A3DCEC00E9AE2C /* AppDelegate.m in Sources */,
+				3495157920A3ED3100E9AE2C /* Student.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
