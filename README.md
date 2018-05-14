@@ -790,4 +790,4 @@ int main(int argc, const char * argv[]) {
 
 上图中通过地址证明meta-class的superclass指向父类的meta-class，基类的meta-class的superclass指向基类的class类。
 
-以上原理解析文章来源：https://juejin.im/post/5ac81c75518825556534c0af、https://juejin.im/post/5ad210636fb9a028da7cf90c
+> 以上原理解析文章来源：https://juejin.im/post/5ac81c75518825556534c0af、https://juejin.im/post/5ad210636fb9a028da7cf90c
